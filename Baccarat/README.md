@@ -134,9 +134,10 @@
         
     ---------------------------------------------------
 ## UML Diagram
-<img width="1042" alt="스크린샷 2023-03-29 오후 4 48 57" src="https://user-images.githubusercontent.com/96881651/228464060-ecc499c2-7793-4e5c-b1b5-b5ab35bc2d7f.png">
 
-게임(Game): 바카라 게임을 총괄하는 클래스  
+<img width="1170" alt="UML Diagram Ver2" src="https://user-images.githubusercontent.com/96881651/229126950-36f4bb5f-9499-42d7-948e-32eba7fdd25e.png">
+
+게임매니저 (Game): 바카라 게임을 총괄하는 클래스  
 카드덱(Deck): 52장의 카드를 가지고 있는 카드 덱을 표현하는 클래스  
 카드(Card): 카드 한 장을 표현하는 클래스  
 플레이어(Player): 게임 참가자를 표현하는 클래스  
